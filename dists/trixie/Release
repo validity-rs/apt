@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: trixie
+Components: main
+Date: Sat, 24 Oct 2026 19:10:23 +0000
+Description: validity-rs packages for Debian 13
+Label: validity-rs
+Origin: validity-rs
+Suite: trixie
+MD5Sum:
+ 4c2405af1de7db278878b195c3748e02             3912 main/binary-amd64/Packages
+ c786e1440131e744f2b4e9f00fe03c68             1882 main/binary-amd64/Packages.gz
+ d27b6b70a1dfeec18d124d5a15c17739             1964 main/binary-amd64/Packages.xz
+SHA1:
+ 02425b50ab96248a01e5d9cbc508e52e5129e46f             3912 main/binary-amd64/Packages
+ a00390db051b045417bb8501ab3df9ea6c8b6568             1882 main/binary-amd64/Packages.gz
+ 44c2d689795b8af921a09cf5b96d68b29eb73df6             1964 main/binary-amd64/Packages.xz
+SHA256:
+ 0fcd42832cef96a55289fefecf7f6cc4fce5c3c5f796cf1768621d00c456e5d4             3912 main/binary-amd64/Packages
+ 92249e125446f1eec7821c8183b8f439142b23bec74b701ba371ac8594001bb8             1882 main/binary-amd64/Packages.gz
+ e06a419433e886485080f64a8135b4132e5ff034a9105a5954ecac3d59863aef             1964 main/binary-amd64/Packages.xz
+SHA512:
+ c54a8604c023612aaabdaaafc50d28d36a808cb95f5ec0de3f2ee16654d03160470d58cfd21613474874a5094d825c25be91231857da80fbef3b4ce37067f34c             3912 main/binary-amd64/Packages
+ 6b8ca7f23ed0c0195dd72dd2d25836d58ec56c8c8baf87bb0776aa96ec3f98a5b06e4a3b5a14b82ce803f9dd439f3b4fdda4e4036141ee905d2439427912e800             1882 main/binary-amd64/Packages.gz
+ bdb53cc6d9fc29a383a93be36e692ec6dbb65abdb5d2ce1e77686b6664a5f131ac0939c4bc57da27d9850b7932b4a80dd6ab3241470e0737eaf85398322ef353             1964 main/binary-amd64/Packages.xz
