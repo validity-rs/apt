@@ -1,0 +1,24 @@
+Architectures: amd64
+Codename: resolute
+Components: main
+Date: Sun, 25 Oct 2026 14:53:40 +0000
+Description: validity-rs packages for Ubuntu 26.04 LTS (resolute)
+Label: validity-rs
+Origin: validity-rs
+Suite: resolute
+MD5Sum:
+ 1918928b5afdbfd5521a38afdfc5858b             3076 main/binary-amd64/Packages
+ a365537244611aee10c738377c486584             1578 main/binary-amd64/Packages.gz
+ a883f0947d88372b4f5981e6109182c3             1676 main/binary-amd64/Packages.xz
+SHA1:
+ fade65f5cbad882e0ebe1e1d489a21252a84953c             3076 main/binary-amd64/Packages
+ 09e774c69196bd5391bd1c45ab3a2ecfc6b05df8             1578 main/binary-amd64/Packages.gz
+ 47d666b3929a4645f8556ea5ab4d719437da30e8             1676 main/binary-amd64/Packages.xz
+SHA256:
+ 3f5ac1004a80b7baed61e3a67ebecd61a85b435803e415e93c9fda900b663a7b             3076 main/binary-amd64/Packages
+ 2652cfc437d902a16f40bcf8562ef32563e9c57c62621d1163c258889008e238             1578 main/binary-amd64/Packages.gz
+ cd6c702041c0970a048d85320991f736f04f4d727de4ab11096ffc719317e817             1676 main/binary-amd64/Packages.xz
+SHA512:
+ 660129cbaa2a45e3f5a1dd6497c7472b7e37822d454be1d721f32e3c7f9b43d29efab1828fe486f5d440302f10ee2fb0128ca3b092377877caef89103239a9f2             3076 main/binary-amd64/Packages
+ b1ebf2d9bce22ec02c864815e9bc4b84b9d7aeb6a3e577a7d7ff94290c4ddc5082773d2189782c711ecaeba8ff82454a3ae19f3540f9fc3f23d26f1dfad44050             1578 main/binary-amd64/Packages.gz
+ 063cbdc34bff4c981a69e1fd806bd11cdd7318c0a774ca2dc8364b2ae4542270121847b7f69b7977468ffcb3862555520f4dfdb04376f1cd525c4f59c8431543             1676 main/binary-amd64/Packages.xz
