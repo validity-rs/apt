@@ -4,7 +4,7 @@ Hash: SHA512
 Architectures: amd64
 Codename: noble
 Components: main
-Date: Sun, 25 Oct 2026 14:53:40 +0000
+Date: Sun, 25 Oct 2026 15:03:29 +0000
 Description: validity-rs packages for Ubuntu 24.04 LTS (noble)
 Label: validity-rs
 Origin: validity-rs
@@ -27,8 +27,8 @@ SHA512:
  679efb50a03910925792c78656ebf39de2575be9cd926cbd4f7816669dceeeb95b485dc80f70752021a78554f68554e14b0c3d06cc051f8baf6eaf8211431cce             1664 main/binary-amd64/Packages.xz
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQScsSLG4yfxYwzHIn5zOhTcLvVuQUCat4X9AAKCRD5zOhTcLvV
-ufEVAP9vIdAdhiUwVHL8zq9bhkFv3UPLaz//QU+b9QpNxp9dbwD+I5lIRy4N4+v/
-075MSpalu1Egj3JdaeRWRSQOYpmnRwg=
-=Q5YF
+iHUEARYKAB0WIQQScsSLG4yfxYwzHIn5zOhTcLvVuQUCat4aQQAKCRD5zOhTcLvV
+uec3AQDvJmW2or0OrQ0D9PCXiQq3SMvfrlO9doIPTt4Yt3WE3AEA/oOq3Bzj3YuN
+V4KYOafKTElllz2WBl+zp2iVbLRBBQc=
+=0Pa0
 -----END PGP SIGNATURE-----

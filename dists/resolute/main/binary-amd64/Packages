@@ -1,3 +1,26 @@
+Package: fingerprint-settings
+Architecture: amd64
+Version: 0.1.1-1.ubuntu26.04
+Priority: optional
+Section: utils
+Maintainer: pierre-warnier <409744+pierre-warnier@users.noreply.github.com>
+Installed-Size: 2567
+Depends: fprintd | validity-daemon, libadwaita-1-0 (>= 1.6~beta), libc6 (>= 2.34), libglib2.0-0t64 (>= 2.54.0), libgtk-4-1 (>= 4.13.8), libpango-1.0-0 (>= 1.14.0)
+Filename: pool/resolute/main/f/fingerprint-settings/fingerprint-settings_0.1.1-1.ubuntu26.04_amd64.deb
+Size: 754364
+MD5sum: cb87794164098940a8e577b96a3fee5d
+SHA1: 8ac5b2d31582613b08e9877e2604c5ce350adf92
+SHA256: aed2c79091ffed21be3115c3223be0e1f2c600a4f1b41f4497d38764a2c900c8
+SHA512: ed7fabed22016cf8d8abee3e61d55893eb8f7a034526fe6a75f37839d0f8be0f59869f6074dbf07727fd872a212262f453a489cb6dae83c06c4869b801f1e698
+Homepage: https://github.com/validity-rs/fingerprint-settings
+Description: Manage your own fingerprints with any fprintd-compatible service
+ (net.reactivated.Fprint)
+ A small desktop application to register your right index finger, or remove it,
+ in one plain screen. Made for desktops without fingerprint settings of their
+ own, such as Xfce, MATE and LXQt. It works with any fingerprint service that
+ speaks the fprintd D-Bus interface, fprintd itself included. Your password
+ always keeps working.
+
 Package: validity-daemon
 Architecture: amd64
 Version: 0.1.1-1.ubuntu26.04
